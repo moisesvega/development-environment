@@ -16,3 +16,8 @@ Dependencies
   -Bundler
 
     Install bundler http://bundler.io/
+
+  -Vagrant-berkshelf
+
+    vagrant plugin install vagrant-berkshelf
+
